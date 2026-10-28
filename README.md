@@ -1,3 +1,3 @@
 # educationandproblems
 
-website: https://phichayapornm.github.io/educationandproblems/
+website: [https://educationandproblems.vercel.app/](https://educationandproblems.vercel.app/)
